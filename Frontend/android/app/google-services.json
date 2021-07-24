@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747157906287",
+    "project_id": "patho-e962b",
+    "storage_bucket": "patho-e962b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747157906287:android:8afe33d2c0bdb73d18be9a",
+        "android_client_info": {
+          "package_name": "com.vamsicham.test_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747157906287-26hq0ks07col74d98ab9r52rhdqih61b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vamsicham.test_lab",
+            "certificate_hash": "212570e07d76983e44bc3a1ffd3ab36af17a78c8"
+          }
+        },
+        {
+          "client_id": "747157906287-kgnuf1pe7sbco5b81spgaei1ajg3liv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzhNtgoNITcLvNnyCJqufBlCBHdUtdT-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747157906287-kgnuf1pe7sbco5b81spgaei1ajg3liv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
